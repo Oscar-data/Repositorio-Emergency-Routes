@@ -1,0 +1,72 @@
+﻿Tipo;Horario;Provincia;Nombre;Departamento;Direccion;Longitud;Latitud
+SAMU;24H;Valencia;A053 Manises;23;Aparcamiento, Av. de la Generalitat Valenciana, 50, 46940 Manises, Valencia;-0,453282590;39,485507010
+SAMU;24H;Valencia;A032 Alfahuir;5;Carrer d'Ismael Merlo, 46020 València, Valencia, España;-0,359118000;39,492844000
+SAMU;24H;Valencia;A033 Campanar;7;Av. Campanar,23 Valencia;-0,390272140;39,485013490
+SAMU;24H;Valencia;A041 General;9;Av. Tres Forques, 98, 46018 Valencia;-0,402461700;39,464663690
+SAMU;24H;Valencia;A055 Silla;10;Calle Vicenta Gomar, Comare, 9 bajo;-0,410742760;39,353520870
+SAMU;12H;Valencia;A031 Malvarrosa;5;Carrer doctor Lluch, 135 Valencia;-0,325157000;39,475005000
+SAMU;12H;Valencia;A034 Campanar;7;Av. Campanar,23 Valencia;-0,390272140;39,485013490
+SAMU;12H;Valencia;A052 Paterna;6;Carrer de la Ciutat de Llíria, 5, 46988 Paterna, València;-0,455996990;39,512683150
+SAMU;24H;Valencia;A042 Bulevar;7;Av. Fernando Abril Martorell, 106 Valencia;-0,376871820;39,442656040
+SAMU;24H;Valencia;A054 Torrente;9;Carrer Pintor Ribera, 28, 46900 Torrent, Valencia;-0,475062130;39,434888360
+SAMU;24H;Valencia;A013 Sagunto;4;Av. Ramón Y Cajal, s/n, 46520 Port de Sagunt, Valencia;-0,231957440;39,674860240
+SAMU;24H;Valencia;A061 Lliria;6;Paratge Cabeço de l'Águila CV-35, Salida 29, 46160 Llíria, Valencia;-0,619139670;39,641944170
+SAMU;24H;Valencia;A071 Requena;8;C. Constitución, 47, 46340 Requena, Valencia;-1,096926930;39,488393070
+SAMU;12H;Valencia;A072 Utiel;8;Pl. Escuelas Pías, 1, 46300 Utiel, Valencia;-1,209011080;39,568859340
+SAMU;12H;Valencia;A062 Buñol;23;Av. Rafael Ridaura, 13, 46360 Buñol, Valencia;-0,786348580;39,424813990
+SAMU;12H;Valencia;A051 Massamagrell;5;Carrer San Felix,7, Massamagrell;-0,331091880;39,572678800
+SAMU;24H;Valencia;A082 Alcudia;11;Carrer del Professor Manuel Broseta Pont, 8, 46250 L'Alcúdia, Valencia;-0,510971550;39,193950890
+SAMU;24H;Valencia;A081 Sueca;11;Carrer de les Palmeres, s/n, 46410 Sueca, Valencia;-0,305943490;39,203660490
+SAMU;24H;Valencia;A101 Gandia;12;Avinguda de la Medicina, 6, 46702 Gandia, València;-0,170127150;38,962808850
+SAMU;24H;Valencia;A091 Xativa;14;Carretera Xátiva-Silla, Km 2, 46800 Xàtiva, Valencia;-0,509898660;39,007172580
+SAMU;24H;Valencia;A92 Ontinyent;14;Avinguda de Francisco Cerdà, 3, 46870 Ontinyent, Valencia;-0,603507760;38,820008040
+SAMU;24H;Valencia;A102 Oliva;12;Carrer de l'Historiador Bernardí Llorca, 46780 Oliva, Valencia;-0,125463010;38,925000430
+SVB;24H;Valencia;B036 Arabista;10;Carrer de l'Arabista Ambrosio Huici, 30, 46013 València, Valencia;-0,360221950;39,456930690
+SVB;24H;Valencia;B035 Peset;10;Av. de Gaspar Aguilar, 90, 46017 València, Valencia;-0,394220350;39,453599450
+SVB;24H;Valencia;B031 Nazaret;5;Carrer de Fernando Morais de la Horra, 2, 46024 València, Valencia;-0,331389570;39,449391110
+SVB;24H;Valencia;B032 Alboraya;5;Polígono In.III Carrer del Ferrers,10 Alboraia.;-0,349993590;39,496187820
+SVB;12H;Valencia;B033 Farnals;5;Av . Neptuno,22 Pobla Farnals;-0,284177660;39,564670150
+SVB;24H;Valencia;B034 Campanar;7;Av. Campanar,21, Valencia;-0,390272140;39,485013490
+SVB;24H;Valencia;B037 Malvarrosa;5;Calle Porta, 10, Valencia. ;-0,332626850;39,465675100
+SVB;24H;Valencia;B051 Massamagrell;5;Carrer Metge Miquel Servet, 48, 46130 Massamagrell, Valencia;-0,331091880;39,572678800
+SVB;24H;Valencia;B063 Betera;6;Calle estación,5 , Bétera.;-0,464429860;39,593868260
+SVB;24H;Valencia;B064 Chelva;6;Calle Diputación provincial, 1-8, Chelva.;-0,995110270;39,750037190
+SVB;12H;Valencia;B065 Gestalgar;6;Acequia, 2 46166 Gestalgar;-0,836140650;39,603642780
+SVB;24H;Valencia;B066 Eliana;6;Carrer Rosers, 21, 46183 L'Eliana, Valencia;-0,533974170;39,563205240
+SVB;24H;Valencia;B061 Lliria;6;Calle L'Espart, 7 polígono industrial Pla de Pascanya PAR.63-C, 46160 Llíria, Valencia;-0,583884720;39,635292290
+SVB;24H;Valencia;B072 Utiel;8;Pl. Escuelas Pías, 1, 46300 Utiel, Valencia;-1,209011080;39,568859340
+SVB;12H N;Valencia;B062 Buñol;23;Av. Rafael Ridaura, 17, 46360 Buñol, Valencia;-0,785425900;39,426155090
+SVB;24H;Valencia;B067 Chiva;23;C. Alcalde Urbino Blay Mańez, 4, 46370 Chiva, Valencia;-0,712190870;39,469306470
+SVB;24H;Valencia;B073 Ayora;8;C. Manuel Reig, 28, 46620 Ayora, Valencia;-1,052649020;39,056063890
+SVB;12H;Valencia;B071 Requena;8;C. Constitución, 47, 46340 Requena, Valencia;-1,096926930;39,488393070
+SVB;12H;Valencia;B068 Turis;23;C. del Músico José Vicente Herrera, S/N, 46389 Turís, Valencia;-0,717147590;39,388250110
+SVB;12H;Valencia;B045 Alacuas;9;Calle doctor Francisco Tarrega Barbera, 1. Alaquás;-0,457779150;39,459923150
+SVB;12H;Valencia;B041 Godella;6;Carrer Sant Sebastià, 30, 46110 Godella, Valencia;-0,416257380;39,522660970
+SVB;24H;Valencia;B043 Quart de Poblet;23;Carrer Trafalgar, s/n, 46930 Quart de Poblet, Valencia;-0,448591540;39,483471390
+SVB;24H;Valencia;B044 Aldaia;23;Av. Puigcampana, Aldaia.;-0,467423200;39,466420410
+SVB;24H;Valencia;B054 Torrente;9;Carrer Pintor Ribera, 28, 46900 Torrent, Valencia;-0,475062130;39,434791800
+SVB;24H;Valencia;B046 Catarroja;7;Avinguda la Rambleta, 63, 46470 Catarroja, Valencia;-0,405783337;39,407828420
+SVB;24H;Valencia;B047 Picassent;10;Carrer Major, 100, 46220 Picassent, Valencia;-0,461683270;39,360151290
+SVB;24H;Valencia;B052 Paterna;6;Calle Mare de Deu del Pilar, 24 Paterna, Valencia;-0,442671780;39,504743810
+SVB;24H;Valencia;B042 Mislata;23;Carrer de Dolores Ibárruri, 1, 46920 Mislata, Valencia;-0,425386350;39,480216680
+SVB;12H;Valencia;B055 Silla;10;Av. d'Ausiàs March, 14, 46460 Silla, Valencia;-0,411751270;39,358037710
+SVB;24H;Valencia;B083 Algemesi;11;Carrer de Santa Teresa, s/n, 46680 Algemesí, Valencia;-0,437607770;39,196107390
+SVB;12H;Valencia;B084 Carlet;11;Camì de Sant Bernat, 1, 46240 Carlet, Valencia;-0,526785850;39,231576920
+SVB;24H;Valencia;B085 Carcaixent;11;Carrer Ramon y Cajal, 2, 46740, Carcaixent;-0,450289250;39,124041800
+SVB;12H;Valencia;B081 Cullera 1;11;Avinguda de la Guardia Civil S/N 46400 Cullera, Valencia;-0,254402160;39,162064790
+SVB;12H;Valencia;B082 Cullera 2;11;Avinguda de la Guardia Civil S/N 46400 Cullera, Valencia;-0,254402160;39,162064790
+SVB;24H;Valencia;B101 Gandia;12;Carrer de la Goleta, 13, 46730 Gandia, Valencia;-0,161726470;38,990542890
+SVB;24H;Valencia;B102 Oliva;12;Carrer de l'Historiador Bernardí Llorca, 46780 Oliva, Valencia;-0,125463010;38,925000430
+SVB;24H;Valencia;B103 Tavernes Valldigna;12;Plaça Prado Comarcal, 0, 46760 Tavernes de la Valldigna, Valencia;-0,262129500;39,071642190
+SVB;12H;Valencia;B104 Castello de Rugat;12;Camí del Rafol, 2, 46841 Castelló de Rugat, Valencia;-0,389211590;38,897941100
+SVB;24H;Valencia;B056 Monserrat;9;Avda. Dos de Mayo, 6, Montserrat. ( UBICACIÓN TEMPORAL);-0,603404960;39,357172660
+SVB;24H;Valencia;B092 Onteniente;14;Av. d'Albaida, 35, 46870 Ontinyent, Valencia;-0,597413780;38,821038010
+SVB;12H;Valencia;B093 Olleria;14;Plaza de la Virgen de Loreto, 0, 46850 Ollería (L'), Valencia;-0,550099610;38,913681510
+SVB;24H;Valencia;B091 Xativa;14;Carretera Xátiva-Silla, Km 2, 46800 Xàtiva, Valencia;-0,509898660;39,007172580
+SVB;24H;Valencia;B094 Navarres;14;C. Alegría de la Huerta, 55, 46823 Navarrés, Valencia;-0,695357320;39,101371770
+SVB;24H;Valencia;B095 Moixent;14;Carrer Santes Reliquies, 3, 46640 Moixent;-0,754655600;38,873920440
+SVB;24H;Valencia;B015 Puerto Sagunto;4;Avinguda Hispanitat, 0, 46520 Port de Sagunt, Valencia;-0,228062870;39,665247200
+SVB;24H;Valencia;B016 Puçol;4;Carrer del Caminàs, 69, 46530 Puçol, València;-0,308421850;39,615476130
+SVB;12H;Valencia;B017 Estivella;4;Carrer Sogorb, 0, 46590 Estivella, Valencia;-0,348976850;39,714245800
+SVB;12H;Valencia;B074 Cortes;8;Calle nueva,14, Cortes de Pallás;-0,939313380;39,243802430
+SVB;12H;Valencia;B096 Villanueva Castellon;11;Calle Gaspar Valentí S/N, Villanueva de Castellón;-0,512963270;39,080163940
