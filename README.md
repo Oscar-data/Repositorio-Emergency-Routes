@@ -231,7 +231,7 @@ emergency-routes/
 
 **Institution**: Polytechnic University of Valencia (UPV) — Bachelor's Degree in Data Science, Project III
 
-**Collaborators**: Yulia Karpova and M.ª Fulgencia Villa (Generalitat Valenciana)
+**Collaborators**: Yulia Karpova and M.ª Fulgencia Villa
 
 ## License
 
@@ -239,4 +239,4 @@ This project was developed for academic purposes as part of the Data Science deg
 
 ## References
 
-See the full reference list in [`docs/G1_PROYIII_LaTex.pdf`](docs/G1_PROYIII_LaTex.pdf), Section 8.
+See the full reference list in [`docs/FinalReport.pdf`](docs/FinalReport.pdf), Section 8.
